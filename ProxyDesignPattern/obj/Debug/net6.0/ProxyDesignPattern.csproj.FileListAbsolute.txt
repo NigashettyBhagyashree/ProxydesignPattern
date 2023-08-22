@@ -1,0 +1,15 @@
+D:\MonoDotNet\Session 32\ProxyDesignPattern\bin\Debug\net6.0\ProxyDesignPattern.exe
+D:\MonoDotNet\Session 32\ProxyDesignPattern\bin\Debug\net6.0\ProxyDesignPattern.deps.json
+D:\MonoDotNet\Session 32\ProxyDesignPattern\bin\Debug\net6.0\ProxyDesignPattern.runtimeconfig.json
+D:\MonoDotNet\Session 32\ProxyDesignPattern\bin\Debug\net6.0\ProxyDesignPattern.dll
+D:\MonoDotNet\Session 32\ProxyDesignPattern\bin\Debug\net6.0\ProxyDesignPattern.pdb
+D:\MonoDotNet\Session 32\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.csproj.AssemblyReference.cache
+D:\MonoDotNet\Session 32\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\MonoDotNet\Session 32\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.AssemblyInfoInputs.cache
+D:\MonoDotNet\Session 32\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.AssemblyInfo.cs
+D:\MonoDotNet\Session 32\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.csproj.CoreCompileInputs.cache
+D:\MonoDotNet\Session 32\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.dll
+D:\MonoDotNet\Session 32\ProxyDesignPattern\obj\Debug\net6.0\refint\ProxyDesignPattern.dll
+D:\MonoDotNet\Session 32\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.pdb
+D:\MonoDotNet\Session 32\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.genruntimeconfig.cache
+D:\MonoDotNet\Session 32\ProxyDesignPattern\obj\Debug\net6.0\ref\ProxyDesignPattern.dll
